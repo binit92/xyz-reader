@@ -20,7 +20,7 @@
 
     <color name="theme_primary">#37474F</color>
     <color name="theme_primary_dark">#263238</color>
-    <color name="theme_accent">#78909C</color>
+    <color name="theme_accent">#F44336</color>
     <color name="ltgray">#B0BEC5</color>
 
 </resources>
